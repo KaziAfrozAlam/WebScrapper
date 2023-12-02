@@ -1,5 +1,5 @@
 # WebScrapper
-Tech Internship
+
 Project overview : WEB SCRAPING USING PYTHON
 
 Objectives
